@@ -66,6 +66,11 @@ Production-grade infrastructure using **Amazon Bedrock AgentCore**:
 
 ---
 
+##  Workflow 
+
+<img width="4289" height="518" alt="image" src="https://github.com/user-attachments/assets/fe25c901-7d5c-4887-83a5-ea93154327be" />
+
+
 ## ✨ Key Features
 
 ### 🤖 **Intelligent Multi-Agent System**
