@@ -9,24 +9,6 @@
 Developed by **Team AURA** - University of Glasgow
 
 ---
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [The Problem](#the-problem)
-- [Our Solution](#our-solution)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Demo Scenario](#demo-scenario)
-- [Contributing](#contributing)
-- [Team](#team)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## 🌟 Overview
 
 Project AURA (Agentic Unified Resource Automation) is an intelligent, multi-agent system that functions as a unified, autonomous control plane for heterogeneous telecommunications networks. Built to address the operational "complexity crisis" in modern telecom infrastructure, AURA moves beyond simple automation to achieve true autonomy through intelligent reasoning, planning, and adaptation.
