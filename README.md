@@ -1037,7 +1037,7 @@ def handle_alert():
 **✅ Everything Required to Demonstrate Our Core Innovation**
 
 </div>
-```
+
 1. ✅ Multi-Agent Intelligence
    → Operator Agent reasoning autonomously
    → Tool calling via Claude Sonnet 4
@@ -1065,7 +1065,7 @@ def handle_alert():
    → Nokia integration: DUB-07 ✅
    → Ericsson integration: LON-15 ✅
    → Cisco integration: PAR-03 ✅
-```
+---
 
 
 ## 💪 Solution Impact
