@@ -954,12 +954,15 @@ def handle_alert():
 
 <div align="center">
 
-### **Development Progress**
+**Development Progress**
 
-![Overall](https://progress-bar.dev/92/?title=Overall&width=300&color=00C853)
-![Layer 1](https://progress-bar.dev/90/?title=Intelligence%20Layer&width=300&color=2196F3)
-![Layer 2](https://progress-bar.dev/100/?title=Governance%20Layer&width=300&color=4CAF50)
-![Layer 3](https://progress-bar.dev/75/?title=Foundation%20Layer&width=300&color=FF9800)
+![Overall](https://img.shields.io/badge/Overall-92%25-brightgreen?style=for-the-badge)
+
+![Intelligence Layer](https://img.shields.io/badge/Intelligence%20Layer-90%25-blue?style=for-the-badge)
+
+![Governance Layer](https://img.shields.io/badge/Governance%20Layer-100%25-success?style=for-the-badge)
+
+![Foundation Layer](https://img.shields.io/badge/Foundation%20Layer-75%25-orange?style=for-the-badge)
 
 </div>
 
