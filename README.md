@@ -1073,50 +1073,23 @@ def handle_alert():
 
 ### 📊 Performance Metrics
 
-<table>
-<tr>
-<th>Metric</th>
-<th>Traditional Approach</th>
-<th>With AURA</th>
-<th>Improvement</th>
-</tr>
-<tr>
-<td><strong>Fault Resolution Time</strong></td>
-<td>2-4 hours</td>
-<td><strong>< 60 seconds</strong></td>
-<td>🚀 <strong>99%+ faster</strong></td>
-</tr>
-<tr>
-<td><strong>OPEX Reduction</strong></td>
-<td>Baseline</td>
-<td><strong>70-80% less</strong></td>
-<td>💰 <strong>Massive savings</strong></td>
-</tr>
-<tr>
-<td><strong>Network Resilience</strong></td>
-<td>5-15 min manual failover</td>
-<td><strong>< 30 sec autonomous</strong></td>
-<td>⚡ <strong>30x improvement</strong></td>
-</tr>
-<tr>
-<td><strong>Vendor Integration Effort</strong></td>
-<td>Weeks per vendor</td>
-<td><strong>Hours per vendor</strong></td>
-<td>🔌 <strong>95% reduction</strong></td>
-</tr>
-<tr>
-<td><strong>Human Intervention</strong></td>
-<td>Every incident</td>
-<td><strong>Approval only</strong></td>
-<td>🤖 <strong>90% automation</strong></td>
-</tr>
-<tr>
-<td><strong>Cross-Domain Diagnosis</strong></td>
-<td>Multiple teams, hours</td>
-<td><strong>Single agent, seconds</strong></td>
-<td>🧠 <strong>Intelligent triage</strong></td>
-</tr>
-</table>
+| Metric | Traditional Approach | With AURA | Improvement |
+|--------|---------------------|-----------|-------------|
+| **Fault Resolution Time** | 2-4 hours | **< 60 seconds** | 🚀 **99%+ faster** |
+| **OPEX Reduction** | Baseline | **70-80% less** | 💰 **Massive savings** |
+| **Network Resilience** | 5-15 min manual failover | **< 30 sec autonomous** | ⚡ **30x improvement** |
+| **Vendor Integration Effort** | Weeks per vendor | **Hours per vendor** | 🔌 **95% reduction** |
+| **Human Intervention** | Every incident | **Approval only** | 🤖 **90% automation** |
+| **Cross-Domain Diagnosis** | Multiple teams, hours | **Single agent, seconds** | 🧠 **Intelligent triage** |
+
+### 💼 Business Value
+
+**For Telecom Operators:**
+- 💰 **Reduced OPEX**: 70-80% reduction in operational costs
+- ⚡ **Faster Resolution**: Minutes to seconds incident resolution
+- 🔄 **Better Uptime**: Autonomous failover improves SLA
+- 🎯 **Resource Optimization**: Engineers focus on strategic work
+- 📈 **Scalability**: Handles 10x more sites without linear cost increase
 
 ### 💼 Business Value
 
