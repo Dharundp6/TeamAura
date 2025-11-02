@@ -1147,24 +1147,20 @@ def handle_alert():
 #### **What Makes AURA Special**
 
 </div>
-```
-┌────────────────────────────────────────────────────────────┐
-│  🏆 Core Innovation: AURA MCP Gateway                      │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  Problem: Multi-vendor API chaos in modern networks        │
-│  Solution: Universal abstraction layer with governance     │
-│                                                            │
-│  ✅ Single API for all vendors                            │
-│  ✅ Intent-based interface (no vendor-specific code)      │
-│  ✅ Plug-and-play architecture                            │
-│  ✅ Enterprise-grade security & auditing                  │
-│  ✅ Production-ready serverless deployment                │
-│                                                            │
-│  Impact: Transforms multi-vendor integration from          │
-│          months of effort to hours                         │
-└────────────────────────────────────────────────────────────┘
-```
+
+**Core Innovation: AURA MCP Gateway** 🏆
+
+- **Problem:** Multi-vendor API chaos in modern networks
+- **Solution:** Universal abstraction layer with governance
+
+**Key Benefits:**
+- ✅ Single API for all vendors
+- ✅ Intent-based interface (no vendor-specific code)
+- ✅ Plug-and-play architecture
+- ✅ Enterprise-grade security & auditing
+- ✅ Production-ready serverless deployment
+
+**Impact:** Transforms multi-vendor integration from months of effort to hours
 
 ---
 
@@ -1271,7 +1267,6 @@ python3 test_gateway.py
 # Validate deployment
 python3 validate_deployment.py
 ```
-
 ### Manual Testing
 ```bash
 # Interactive mode
